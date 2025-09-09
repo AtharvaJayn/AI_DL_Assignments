@@ -1,1 +1,1 @@
-# Deep-Learning-Assignments
+AI & Deep Learning Assignments
